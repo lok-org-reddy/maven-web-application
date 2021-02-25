@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.56.49:8081/repository/mvn-loki/</url>
+	      <url>http://13.127.198.238:8081/repository/mvn-loki/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.56.49:8081/repository/mvn-ashok/</url>
+	      <url>http://13.127.198.238:8081/repository/mvn-ashok/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
